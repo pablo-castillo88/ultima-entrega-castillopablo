@@ -1,0 +1,65 @@
+[
+  {
+    "id": "01",
+    "tipo": "juego PS4",
+    "nombre": "ELDEN RING EDICION ESTANDAR",
+    "precio": 10600,
+    "foto": "../imagenes/productos/elden.jpg"
+  },
+  {
+    "id": "02",
+    "tipo": "juego PS4",
+    "nombre": "GOD OF WAR RAGNAROK",
+    "precio": 12900,
+    "foto": "../imagenes/productos//god of war.png "
+  },
+  {
+    "id": "03",
+    "tipo": "juego PS4",
+    "nombre": "GRAN TURISMO SPORT",
+    "precio": 14800,
+    "foto": "../imagenes/productos/turismo.jpg "
+  },
+  {
+    "id": "04",
+    "tipo": "juego PS4",
+    "nombre": "HORIZON FORBIDDEN WEST",
+    "precio": 9400,
+    "foto": "../imagenes/productos/horizon.jpg "
+  },
+  {
+    "id": "05",
+    "tipo": "juego xbox/pc",
+    "nombre": "FORZA HORIZON 5 PREMIUM XBOX/PC",
+    "precio": 15200,
+    "foto": "../imagenes/productos/forza.jfif "
+  },
+  {
+    "id": "06",
+    "tipo": "juego xbox",
+    "nombre": "CALL OF DUTY XBOX SERIES X / XBOX ONE",
+    "precio": 18900,
+    "foto": "../imagenes/productos/duty.jpg"
+  },
+  {
+    "id": "07",
+    "tipo": "NINTENDO ",
+    "nombre": "SUPER MARIO DELUXE",
+    "precio": 12800,
+    "foto": "../imagenes/productos/mario.jpg"
+  },
+  {
+    "id": "08",
+    "tipo": "NINTENDO ",
+    "nombre": "THE LEGEND OF ZELDA BREATH OF THE WILD",
+    "precio": 7300,
+    "foto": "../imagenes/productos/zelda.jfif"
+  },
+  {
+    "id": "09",
+    "tipo": "NINTENDO ",
+    "nombre": "CONSOLA NINTENDO SWITCH EDICION DIABLO 3",
+    "precio": 130000,
+    "foto": "../imagenes/productos/consola.jpg"
+  }
+]
